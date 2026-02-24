@@ -71,7 +71,7 @@ DocSpot is a comprehensive full-stack web application for seamless healthcare ap
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/docspot-appointment-system.git
+git clone https://github.com/syamkumargulla/docspot-appointment-system.git
 cd docspot-appointment-system
 
 
